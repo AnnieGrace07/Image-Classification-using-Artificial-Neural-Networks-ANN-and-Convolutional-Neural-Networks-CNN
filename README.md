@@ -66,6 +66,8 @@ tf.keras.layers.Dense(10, activation='softmax')
 - Optimal epochs: **~7**
 
 ---
+<img width="550" height="411" alt="image" src="https://github.com/user-attachments/assets/bcf7cc97-089f-4f99-96c5-3acc5933d73d" />
+
 
 ## 🧠 Convolutional Neural Network (CNN)
 
@@ -91,6 +93,8 @@ tf.keras.layers.Dense(10, activation='softmax')
 - Slight overfitting observed after **2–3 epochs**
 
 ---
+<img width="515" height="395" alt="image" src="https://github.com/user-attachments/assets/891e61f4-e67b-4171-b117-3ad86c69e5e2" />
+
 
 ## 📊 Model Comparison
 
